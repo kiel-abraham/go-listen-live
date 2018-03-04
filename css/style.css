@@ -1,0 +1,9 @@
+h1, h2 {
+	font-size: 2em;
+}
+.no-underline {
+	text-decoration: none !important;
+}
+.no-underline:hover {
+	text-decoration: underline !important;
+}
