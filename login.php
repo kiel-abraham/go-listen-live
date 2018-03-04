@@ -94,12 +94,6 @@ if (isset($_POST["login"])) {
 				</fieldset>
 			</form>
 		</div>
-		<div class="row">
-			<div class="well col-sm-6 col-sm-offset-3 text-center">
-				<p>Username: admin</p>
-				<p>Password: Password123</p>
-			</div>
-		</div>
 	</main>
 	<footer class="navbar-fixed-bottom" style="padding-top: 100px">
 		<div class="row ">
